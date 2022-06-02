@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning MERN Stack 
-- 💬 Ask me about JavaScript, Angular, NodeJS
+- 💬 Ask me about CSS,Bootstrap,JavaScript, Angular
 - 📫 To Reach me Out : anusha.kadambala61@gmail.com
 
 
